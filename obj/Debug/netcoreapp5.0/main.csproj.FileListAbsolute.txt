@@ -1,0 +1,16 @@
+/home/runner/toto/obj/Debug/netcoreapp5.0/main.csprojAssemblyReference.cache
+/home/runner/toto/obj/Debug/netcoreapp5.0/main.GeneratedMSBuildEditorConfig.editorconfig
+/home/runner/toto/obj/Debug/netcoreapp5.0/main.AssemblyInfoInputs.cache
+/home/runner/toto/obj/Debug/netcoreapp5.0/main.AssemblyInfo.cs
+/home/runner/toto/obj/Debug/netcoreapp5.0/main.csproj.CoreCompileInputs.cache
+/home/runner/toto/bin/Debug/netcoreapp5.0/main
+/home/runner/toto/bin/Debug/netcoreapp5.0/main.deps.json
+/home/runner/toto/bin/Debug/netcoreapp5.0/main.runtimeconfig.json
+/home/runner/toto/bin/Debug/netcoreapp5.0/main.runtimeconfig.dev.json
+/home/runner/toto/bin/Debug/netcoreapp5.0/main.dll
+/home/runner/toto/bin/Debug/netcoreapp5.0/ref/main.dll
+/home/runner/toto/bin/Debug/netcoreapp5.0/main.pdb
+/home/runner/toto/obj/Debug/netcoreapp5.0/main.dll
+/home/runner/toto/obj/Debug/netcoreapp5.0/ref/main.dll
+/home/runner/toto/obj/Debug/netcoreapp5.0/main.pdb
+/home/runner/toto/obj/Debug/netcoreapp5.0/main.genruntimeconfig.cache
